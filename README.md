@@ -1,0 +1,1 @@
+This website utilises several modern JS, HTML, and CSS tools and masinly focuses around the document object model (DOM) which allows the coder the extract and write data to a data structure known as a JSON file.
